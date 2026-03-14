@@ -13,14 +13,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.2.1",
-    "@types/node": "^25.5.0",
-    "@types/react": "^19.2.14",
-    "@types/react-dom": "^19.2.3",
-    "autoprefixer": "^10.4.27",
     "eslint": "^9.39.4",
-    "eslint-config-next": "^16.1.6",
-    "typescript": "^5.9.3"
+    "eslint-config-next": "^16.1.6"
   },
   "dependencies": {
     "bcryptjs": "^3.0.3",
@@ -32,7 +26,12 @@
     "react-dom": "^19.2.4",
     "socket.io": "^4.8.3",
     "socket.io-client": "^4.8.3",
-    "tailwindcss": "^4.2.1",
-    "uuid": "^13.0.0"
+    "uuid": "^13.0.0",
+    "@tailwindcss/postcss": "^4.2.1",
+    "autoprefixer": "^10.4.27",
+    "typescript": "^5.9.3",
+    "@types/node": "^25.5.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3"
   }
 }
